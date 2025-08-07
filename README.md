@@ -16,6 +16,24 @@
 
 ---
 
+## 🏷 Скачать AR-метки
+
+<p>
+  <a href="https://raw.githubusercontent.com/destrosez/MilitaryEquipmentAR/main/Assets/Markers/cannon.jpg" download>
+    <img src="https://raw.githubusercontent.com/destrosez/MilitaryEquipmentAR/main/Assets/Markers/cannon.jpg" width="80" alt="cannon marker" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/destrosez/MilitaryEquipmentAR/main/Assets/Markers/gun.jpg" download>
+    <img src="https://raw.githubusercontent.com/destrosez/MilitaryEquipmentAR/main/Assets/Markers/gun.jpg" width="80" alt="gun marker" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/destrosez/MilitaryEquipmentAR/main/Assets/Markers/hat.jpg" download>
+    <img src="https://raw.githubusercontent.com/destrosez/MilitaryEquipmentAR/main/Assets/Markers/hat.jpg" width="80" alt="hat marker" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Технологии и зависимости
 
 - **Unity**
